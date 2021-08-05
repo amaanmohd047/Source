@@ -7,4 +7,4 @@ These files contain notes and exercise solutions of "Computer Science: Programmi
 The repository contains two types of files:
 
 - .java files that contain Java Code
-- Compiled Java files that can be executed
+- .class files that are compiled Java files that can be executed
