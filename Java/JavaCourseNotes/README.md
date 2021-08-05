@@ -1,14 +1,10 @@
-## Getting Started
+## Java Course Notes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+These files contain notes and exercise solutions of "Computer Science: Programming with a Purpose" by Princeton University
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The repository contains two types of files:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- .java files that contain Java Code
+- Compiled Java files that can be executed
